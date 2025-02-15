@@ -70,7 +70,30 @@ footer{
 
 /* tables */
 table{
+	border-collapse: collapse;
 	margin: 1em auto;
+}
+
+table td{
+	padding-bottom: .25em;
+	vertical-align: bottom;
+}
+
+table:first-of-type tr:nth-child(3) td:nth-child(2),
+table:first-of-type tr:nth-child(3) td:nth-child(3),
+table:first-of-type tr:nth-child(3) td:nth-child(4),
+table:first-of-type tr:nth-child(3) td:nth-child(5),
+table:nth-of-type(2) tr:nth-child(2) td:nth-child(2),
+table:nth-of-type(2) tr:nth-child(2) td:nth-child(3),
+table:nth-of-type(2) tr:nth-child(2) td:nth-child(4),
+table:nth-of-type(2) tr:nth-child(2) td:nth-child(5){
+	border-bottom: 1px solid;
+}
+
+table td:nth-child(2),
+table td:nth-child(4){
+	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
 /* end tables */
 
