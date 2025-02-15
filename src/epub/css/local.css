@@ -79,3 +79,13 @@ table{
 	text-align: initial;
 }
 /* end part 6 date footer */
+
+/* ch 4-15 subchapter headers */
+#chapter-4-15 [epub|type~="z3998:subchapter"] > p:last-of-type{
+	margin-bottom: 2em;
+}
+
+#chapter-4-15 header + p{
+	margin-top: 1em;
+}
+/* end ch 4-15 subchapter headers */
