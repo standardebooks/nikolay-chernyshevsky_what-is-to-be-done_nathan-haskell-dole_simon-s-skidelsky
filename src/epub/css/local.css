@@ -2,11 +2,15 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/* blockquote */
+/* blockquote and para language */
 blockquote[xml|lang]{
 	font-style: italic;
 }
-/* end blockquote */
+
+p[xml|lang]{
+	font-style: italic;
+}
+/* end blockquote and para language */
 
 /* verse and song */
 [epub|type~="z3998:song"] p,
