@@ -28,63 +28,57 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">What Is to Be Done?</dc:title>
 		<meta property="file-as" refines="#title">What Is to Be Done?</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Romance fiction, Russian</dc:subject>
+		<dc:subject id="subject-2">Russian fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">sh98000968</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85115966</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young Russian woman evades her mother’s attempts at an arranged marriage and seeks her own happiness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Viéra Pavlovna is coming of age and her scheming mother tries to arrange a marriage to a wealthy man. Viéra Pavlovna feels trapped and unhappy. She finds an escape through her brother’s tutor Lopukhóf, who is often visiting the house. They have an understanding that they will get married and set up their own household together. Both of them consider it very important to be equal partners in the marriage. Viéra Pavlovna sets up a sewing collective to retain some independence. Chernyshevsky uses these ideas of equality, independence, and collective work to explore the reformation of society at large.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nikolay-chernyshevsky"&gt;Nikolay Chernyshevsky&lt;/a&gt; wrote the novel in 1863 while imprisoned in St. Petersburg. It was passed to the newspaper &lt;i&gt;Sovremennik&lt;/i&gt; and published in installments. It influenced later revolutionists like &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Peter Kropotkin&lt;/a&gt;, and Vladimir Lenin who used the title for his famous tract &lt;i&gt;What Is to Be Done?&lt;/i&gt; The novel was considered a classic in Soviet days because of its revolutionary ideas that foreshadowed Marxist socialism. By forming small work collectives, agrarian Russia could bypass capitalism and move into a utopian industrial age.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://en.wikisource.org/wiki/A_vital_question;_or,_What_is_to_be_done%3F</dc:source>
+		<dc:source>https://archive.org/details/cu31924096961036</dc:source>
+		<meta property="se:production-notes">Chapters 4-15 and 5-23 had HTML errors that required manually fixing to get clean file splits. Some footnote references were used more than once on the same page; these were each made into separate endnotes. Best effort was made to correctly place missing quotation marks to properly enclose dialogue.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nikolay-chernyshevsky_what-is-to-be-done_nathan-haskell-dole_simon-s-skidelsky</meta>
 		<dc:creator id="author">Nikolay Chernyshevsky</dc:creator>
 		<meta property="file-as" refines="#author">Chernyshevsky, Nikolay</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Nikolay Gavrilovich Chernyshevsky</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80117305</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Nathan Haskell Dole</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Dole, Nathan Haskell</meta>
-		<meta property="se:name.person.full-name" refines="#translator-1">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n50027251</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator-2">Simon S. Skidelsky</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Skidelsky, Simon S.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-2">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n85376274</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">William Quiller Orchardson</dc:contributor>
+		<meta property="file-as" refines="#artist">Orchardson, William Quiller</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Quiller_Orchardson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr89008025</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
+		<meta property="se:url.homepage" refines="#transcriber-1">https://wikisource.org</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
