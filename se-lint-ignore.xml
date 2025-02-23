@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-2-23.xhtml">
-		<ignore>
-			<code>y-022</code>
-			<reason>multiple speakers</reason>
-		</ignore>
-	</file>
-	<file path="chapter-3-29.xhtml">
-		<ignore>
-			<code>y-022</code>
-			<reason>multiple speakers</reason>
-		</ignore>
-	</file>
 	<file path="chapter-4-13.xhtml">
 		<ignore>
 			<code>t-005</code>
