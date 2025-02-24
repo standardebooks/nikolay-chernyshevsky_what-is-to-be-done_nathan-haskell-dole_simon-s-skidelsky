@@ -54,6 +54,7 @@
 		<dc:creator id="author">Nikolay Chernyshevsky</dc:creator>
 		<meta property="file-as" refines="#author">Chernyshevsky, Nikolay</meta>
 		<meta property="se:name.person.full-name" refines="#author">Nikolay Gavrilovich Chernyshevsky</meta>
+		<meta property="alternate-script" refines="#author">Николай Чернышевский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80117305</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
