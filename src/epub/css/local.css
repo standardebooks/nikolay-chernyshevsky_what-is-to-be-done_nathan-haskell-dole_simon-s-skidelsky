@@ -19,12 +19,14 @@ p[xml|lang]{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
@@ -83,26 +85,25 @@ table td{
 	vertical-align: bottom;
 }
 
-table:first-of-type tr:nth-child(3) td:nth-child(2),
-table:first-of-type tr:nth-child(3) td:nth-child(3),
-table:nth-of-type(2) tr:nth-child(2) td:nth-child(2),
-table:nth-of-type(2) tr:nth-child(2) td:nth-child(3){
-	border-bottom: 1px solid;
+table tfoot td + td{
+	border-top: 1px solid;
 }
 
-table td:nth-child(2),
-table td:nth-child(3){
-	font-variant-numeric: tabular-nums;
-	text-align: right;
+table td:first-child{
+	padding-left: 1em;
+	text-indent: -1em;
 }
 
 table td + td{
+	font-variant-numeric: tabular-nums;
+	padding-left: .5em;
+	text-align: right;
 	white-space: nowrap;
 }
 /* end tables */
 
 /* ch 4-15 subchapter headers */
-header{
+[epub|type~="z3998:subchapter"] header{
 	font-variant: small-caps;
 	margin: 1em;
 	text-align: center;
