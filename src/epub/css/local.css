@@ -105,7 +105,6 @@ table td + td{
 /* ch 4-15 subchapter headers */
 [epub|type~="z3998:subchapter"] header{
 	font-variant: small-caps;
-	margin: 1em;
-	text-align: center;
+	margin: 3em;
 }
 /* end ch 4-15 subchapter headers */
