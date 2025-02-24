@@ -44,7 +44,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/A_vital_question;_or,_What_is_to_be_done%3F</dc:source>
 		<dc:source>https://archive.org/details/cu31924096961036</dc:source>
-		<meta property="se:production-notes">Chapters 4-15 and 5-23 had HTML errors that required manually fixing to get clean file splits. Some footnote references were used more than once on the same page; these were each made into separate endnotes. Best effort was made to correctly place missing quotation marks to properly enclose dialogue.</meta>
+		<meta property="se:production-notes">Chapters 4-15 and 5-23 had HTML errors that required manually fixing to get clean file splits. Some footnote references were used more than once on the same page; these were each made into separate endnotes. Best effort was made to correctly place missing quotation marks to properly enclose dialogue. Added ellipsis glyph for empty section of subchapter 4-15-7.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F_(novel)</meta>
