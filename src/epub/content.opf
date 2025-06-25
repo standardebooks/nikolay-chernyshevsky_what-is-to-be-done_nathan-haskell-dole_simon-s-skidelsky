@@ -56,12 +56,12 @@
 		<meta property="se:name.person.full-name" refines="#author">Nikolay Gavrilovich Chernyshevsky</meta>
 		<meta property="alternate-script" refines="#author">Николай Чернышевский</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nikolay_Chernyshevsky</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n80117305</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80117305</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Nathan Haskell Dole</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Dole, Nathan Haskell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/Nathan_Haskell_Dole</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/n50027251</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n50027251</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
