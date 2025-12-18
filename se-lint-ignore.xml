@@ -6,4 +6,10 @@
 			<reason>Matched quote is not dialog.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-5-23.xhtml">
+		<ignore>
+			<code>y-036</code>
+			<reason>Matching opening quote is in an earlier paragraph.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
