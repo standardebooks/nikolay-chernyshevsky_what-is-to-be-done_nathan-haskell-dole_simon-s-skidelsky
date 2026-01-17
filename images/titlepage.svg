@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 650">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 750">
 	<title>The titlepage for the Standard Ebooks edition of What Is to Be Done?, by Nikolay Chernyshevsky. Translated by Nathan Haskell Dole and Simon S. Skidelsky</title>
 	<style type="text/css">
 		text{
@@ -27,9 +27,10 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">WHAT IS TO BE DONE?</text>
-	<text class="author" x="700" y="290">NIKOLAY CHERNYSHEVSKY</text>
-	<text class="contributor-descriptor" x="700" y="480">translated by</text>
-	<text class="contributor" x="700" y="540">NATHAN HASKELL</text>
-	<text class="contributor" x="700" y="600">DOLE AND SIMON S. SKIDELSKY</text>
+	<text class="title" x="700" y="130">WHAT IS</text>
+	<text class="title" x="700" y="230">TO BE DONE?</text>
+	<text class="author" x="700" y="390">NIKOLAY CHERNYSHEVSKY</text>
+	<text class="contributor-descriptor" x="700" y="580">translated by</text>
+	<text class="contributor" x="700" y="640">NATHAN HASKELL DOLE</text>
+	<text class="contributor" x="700" y="700">AND SIMON S. SKIDELSKY</text>
 </svg>
