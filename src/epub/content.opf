@@ -48,7 +48,7 @@
 		<dc:source>https://en.wikisource.org/wiki/A_vital_question;_or,_What_is_to_be_done%3F</dc:source>
 		<dc:source>https://archive.org/details/cu31924096961036</dc:source>
 		<meta property="se:production-notes">Some footnote references were used more than once on the same page; these were each made into separate endnotes. Added ellipsis glyph for empty section of subchapter 4-15-7.</meta>
-		<meta property="se:word-count">189720</meta>
+		<meta property="se:word-count">188158</meta>
 		<meta property="se:reading-ease.flesch">70.13</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/What_Is_to_Be_Done%3F_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nikolay-chernyshevsky_what-is-to-be-done_nathan-haskell-dole_simon-s-skidelsky</meta>
