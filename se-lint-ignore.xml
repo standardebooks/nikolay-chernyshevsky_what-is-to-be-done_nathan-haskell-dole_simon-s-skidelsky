@@ -2,11 +2,13 @@
 <se-lint-ignore>
 	<file path="chapter-4-13.xhtml">
 		<ignore code="t-005">
+			<line>12</line>
 			<reason>Matched quote is not dialog.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-5-23.xhtml">
 		<ignore code="y-036">
+			<line>252</line>
 			<reason>Matching opening quote is in an earlier paragraph.</reason>
 		</ignore>
 	</file>
