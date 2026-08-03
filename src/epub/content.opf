@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/nikolay-chernyshevsky/what-is-to-be-done/nathan-haskell-dole_simon-s-skidelsky</dc:identifier>
 		<dc:date>2025-02-24T17:27:20Z</dc:date>
@@ -38,13 +38,13 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85115966</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young Russian woman evades her mother’s attempts at an arranged marriage and seeks her own happiness.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young Russian woman evades her mother’s attempts at an arranged marriage and seeks her own happiness.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Viéra Pavlovna is coming of age, and her scheming mother tries to arrange for her to be married to a wealthy man. Viéra feels trapped and unhappy. She finds escape through her brother’s tutor Lopukhóf, who often visits the house, and they develop an understanding that they’ll get married and build a household together. Both of them consider it very important to be equal partners in the marriage, and so Viéra Pavlovna sets up a sewing collective to retain some of her independence.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nikolay-chernyshevsky"&gt;Chernyshevsky&lt;/a&gt; wrote &lt;i&gt;What Is to Be Done?&lt;/i&gt; in 1863 while imprisoned in St. Petersburg. It was passed to the magazine &lt;i&gt;Sovremennik&lt;/i&gt; and published in installments. Chernyshevsky explores themes of absolute equality of the sexes and equality of the classes in an effort to spur reformation of society at large. By forming small work collectives, he suggests, agrarian Russia could bypass capitalism and move into a utopian modern age.&lt;/p&gt;
 			&lt;p&gt;If this suggestion sounds familiar, it might be because &lt;i&gt;What Is to Be Done?&lt;/i&gt; was a major influence on revolutionists like &lt;a href="https://standardebooks.org/ebooks/peter-kropotkin"&gt;Kropotkin&lt;/a&gt; and Lenin, who went so far as to name one of his most influential political tracts after the novel. The novel went on to be become a Soviet-era classic thanks to its revolutionary ideas that foreshadowed Marxist socialism.&lt;/p&gt;
 			&lt;p&gt;This English translation was originally published with the title &lt;i&gt;A Vital Question&lt;/i&gt;; this Standard Ebooks edition uses the more common modern title.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/A_vital_question;_or,_What_is_to_be_done%3F</dc:source>
 		<dc:source>https://archive.org/details/cu31924096961036</dc:source>
