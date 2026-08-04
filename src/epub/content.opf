@@ -38,7 +38,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85115966</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Russian woman evades her mother’s attempts at an arranged marriage and seeks her own happiness.</dc:abstract>
+		<meta property="schema:abstract">A young Russian woman evades her mother’s attempts at an arranged marriage and seeks her own happiness.</meta>
 		<dc:description>
 			&lt;p&gt;Viéra Pavlovna is coming of age, and her scheming mother tries to arrange for her to be married to a wealthy man. Viéra feels trapped and unhappy. She finds escape through her brother’s tutor Lopukhóf, who often visits the house, and they develop an understanding that they’ll get married and build a household together. Both of them consider it very important to be equal partners in the marriage, and so Viéra Pavlovna sets up a sewing collective to retain some of her independence.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nikolay-chernyshevsky"&gt;Chernyshevsky&lt;/a&gt; wrote &lt;i&gt;What Is to Be Done?&lt;/i&gt; in 1863 while imprisoned in St. Petersburg. It was passed to the magazine &lt;i&gt;Sovremennik&lt;/i&gt; and published in installments. Chernyshevsky explores themes of absolute equality of the sexes and equality of the classes in an effort to spur reformation of society at large. By forming small work collectives, he suggests, agrarian Russia could bypass capitalism and move into a utopian modern age.&lt;/p&gt;
