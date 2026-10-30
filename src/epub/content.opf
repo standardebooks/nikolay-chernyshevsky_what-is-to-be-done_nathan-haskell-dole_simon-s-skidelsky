@@ -81,7 +81,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
-		<link href="https://wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
+		<link href="https://en.wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
